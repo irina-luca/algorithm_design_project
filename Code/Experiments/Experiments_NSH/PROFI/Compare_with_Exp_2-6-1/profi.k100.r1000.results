@@ -1,0 +1,356 @@
+# ----------------- PROFI START ---------------- #
+******************** train-1, test-1 ******************
+Dataset size: 9980
+Dataset size: 257
+Test query count: 10008
+Test query count: 257
+The value of k: 100
+The value of r: 1000
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 2
+  codesize: 4
+  codesize: 8
+  codesize: 16
+  codesize: 32
+  codesize: 64
+  codesize: 128
+  codesize: 256
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 2
+iteration = 1
+  codesize: 4
+iteration = 6
+  codesize: 8
+iteration = 8
+  codesize: 16
+iteration = 11
+  codesize: 32
+iteration = 12
+  codesize: 64
+iteration = 14
+  codesize: 128
+iteration = 16
+  codesize: 256
+iteration = 17
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.2011
+    0.3359
+    0.4652
+    0.5754
+    0.6688
+    0.7190
+    0.7450
+    0.7584
+
+Spectral Hashing Recalls:
+    0.2750
+    0.4377
+    0.5325
+    0.6255
+    0.6894
+    0.7253
+    0.7389
+    0.7555
+
+Spherical Hashing Recalls:
+    0.1989
+    0.2760
+    0.3428
+    0.4952
+    0.6382
+    0.7552
+    0.8498
+    0.9001
+******************** train-1, test-1 ******************
+
+******************** train-1, test-2 ******************
+Dataset size: 9980
+Dataset size: 257
+Test query count: 10044
+Test query count: 257
+The value of k: 100
+The value of r: 1000
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 2
+  codesize: 4
+  codesize: 8
+  codesize: 16
+  codesize: 32
+  codesize: 64
+  codesize: 128
+  codesize: 256
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 2
+iteration = 4
+  codesize: 4
+iteration = 7
+  codesize: 8
+iteration = 10
+  codesize: 16
+iteration = 11
+  codesize: 32
+iteration = 13
+  codesize: 64
+iteration = 15
+  codesize: 128
+iteration = 16
+  codesize: 256
+iteration = 17
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.2567
+    0.3706
+    0.4546
+    0.5909
+    0.6707
+    0.7217
+    0.7458
+    0.7592
+
+Spectral Hashing Recalls:
+    0.2721
+    0.4382
+    0.5329
+    0.6254
+    0.6908
+    0.7268
+    0.7413
+    0.7541
+
+Spherical Hashing Recalls:
+    0.1830
+    0.2632
+    0.3642
+    0.4901
+    0.6153
+    0.7590
+    0.8454
+    0.8981
+******************** train-1, test-2 ******************
+
+******************** train-1, test-3 ******************
+Dataset size: 9980
+Dataset size: 257
+Test query count: 9884
+Test query count: 257
+The value of k: 100
+The value of r: 1000
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 2
+  codesize: 4
+  codesize: 8
+  codesize: 16
+  codesize: 32
+  codesize: 64
+  codesize: 128
+  codesize: 256
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 2
+iteration = 4
+  codesize: 4
+iteration = 5
+  codesize: 8
+iteration = 8
+  codesize: 16
+iteration = 11
+  codesize: 32
+iteration = 13
+  codesize: 64
+iteration = 15
+  codesize: 128
+iteration = 16
+  codesize: 256
+iteration = 16
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.2333
+    0.3450
+    0.4554
+    0.5924
+    0.6672
+    0.7156
+    0.7448
+    0.7576
+
+Spectral Hashing Recalls:
+    0.2733
+    0.4370
+    0.5326
+    0.6254
+    0.6891
+    0.7265
+    0.7396
+    0.7567
+
+Spherical Hashing Recalls:
+    0.1753
+    0.2614
+    0.3562
+    0.4887
+    0.6348
+    0.7645
+    0.8477
+    0.8947
+******************** train-1, test-3 ******************
+
+******************** train-1, test-4 ******************
+Dataset size: 9980
+Dataset size: 257
+Test query count: 10008
+Test query count: 257
+The value of k: 100
+The value of r: 1000
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 2
+  codesize: 4
+  codesize: 8
+  codesize: 16
+  codesize: 32
+  codesize: 64
+  codesize: 128
+  codesize: 256
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 2
+iteration = 1
+  codesize: 4
+iteration = 6
+  codesize: 8
+iteration = 8
+  codesize: 16
+iteration = 11
+  codesize: 32
+iteration = 13
+  codesize: 64
+iteration = 15
+  codesize: 128
+iteration = 16
+  codesize: 256
+iteration = 17
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.2680
+    0.3891
+    0.4379
+    0.5817
+    0.6571
+    0.7173
+    0.7438
+    0.7544
+
+Spectral Hashing Recalls:
+    0.2750
+    0.4377
+    0.5325
+    0.6255
+    0.6894
+    0.7253
+    0.7389
+    0.7555
+
+Spherical Hashing Recalls:
+    0.2112
+    0.3134
+    0.3483
+    0.4765
+    0.6356
+    0.7601
+    0.8526
+    0.9010
+******************** train-1, test-4 ******************
+
+******************** train-1, test-5 ******************
+Dataset size: 9980
+Dataset size: 257
+Test query count: 10006
+Test query count: 257
+The value of k: 100
+The value of r: 1000
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 2
+  codesize: 4
+  codesize: 8
+  codesize: 16
+  codesize: 32
+  codesize: 64
+  codesize: 128
+  codesize: 256
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 2
+iteration = 5
+  codesize: 4
+iteration = 6
+  codesize: 8
+iteration = 9
+  codesize: 16
+iteration = 11
+  codesize: 32
+iteration = 13
+  codesize: 64
+iteration = 15
+  codesize: 128
+iteration = 16
+  codesize: 256
+iteration = 17
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.2418
+    0.3706
+    0.4646
+    0.6039
+    0.6650
+    0.7183
+    0.7489
+    0.7587
+
+Spectral Hashing Recalls:
+    0.2736
+    0.4384
+    0.5326
+    0.6263
+    0.6902
+    0.7256
+    0.7402
+    0.7532
+
+Spherical Hashing Recalls:
+    0.1856
+    0.2826
+    0.3455
+    0.4908
+    0.6300
+    0.7600
+    0.8486
+    0.9017
+******************** train-1, test-5 ******************
+# ----------------- PROFI END ---------------- #

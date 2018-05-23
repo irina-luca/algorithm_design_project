@@ -1,0 +1,83 @@
+['Experiments2/Experiment_2-5-2/Models/random-10000-1-c64.model', 'Experiments2/Experiment_2-5-2/Models/random-10000-2-c64.model', 'Experiments2/Experiment_2-5-2/Models/random-10000-3-c64.model', 'Experiments2/Experiment_2-5-2/Models/random-10000-4-c64.model', 'Experiments2/Experiment_2-5-2/Models/random-10000-5-c64.model']
+['Data/Samples/random-10000-f256-1.train']
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/random-10000-1-c64.model
+[DEBUG] Sample =>Data/Samples/random-10000-f256-1.train
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 3
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/random-10000-1-c64.model Data/Samples/random-10000-f256-1.train
+[RECALL] [(2, 0.01098), (4, 0.01285), (8, 0.01534), (16, 0.02002), (32, 0.02852), (64, 0.04371), (128, 0.06809), (256, 0.10896), (512, 0.17419), (1024, 0.27565), (2048, 0.42457), (4096, 0.63161), (8192, 0.90536), (16384, 1.0)]
+[PRECISION]  0.05784
+[DURATION]:  69.6541659832 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/random-10000-1-c64.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/random-10000-1-c64.model;[SAMPLE]Data/Samples/random-10000-f256-1.train;(2, 0.01098),(4, 0.01285),(8, 0.01534),(16, 0.02002),(32, 0.02852),(64, 0.04371),(128, 0.06809),(256, 0.10896),(512, 0.17419),(1024, 0.27565),(2048, 0.42457),(4096, 0.63161),(8192, 0.90536),(16384, 1.0);0.05784
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/random-10000-2-c64.model
+[DEBUG] Sample =>Data/Samples/random-10000-f256-1.train
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 3
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/random-10000-2-c64.model Data/Samples/random-10000-f256-1.train
+[RECALL] [(2, 0.01098), (4, 0.01277), (8, 0.01559), (16, 0.02025), (32, 0.02858), (64, 0.04294), (128, 0.0681), (256, 0.10922), (512, 0.17625), (1024, 0.27864), (2048, 0.43024), (4096, 0.63678), (8192, 0.90949), (16384, 1.0)]
+[PRECISION]  0.05758
+[DURATION]:  76.7079660892 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/random-10000-2-c64.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/random-10000-2-c64.model;[SAMPLE]Data/Samples/random-10000-f256-1.train;(2, 0.01098),(4, 0.01277),(8, 0.01559),(16, 0.02025),(32, 0.02858),(64, 0.04294),(128, 0.0681),(256, 0.10922),(512, 0.17625),(1024, 0.27864),(2048, 0.43024),(4096, 0.63678),(8192, 0.90949),(16384, 1.0);0.05758
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/random-10000-3-c64.model
+[DEBUG] Sample =>Data/Samples/random-10000-f256-1.train
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 3
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/random-10000-3-c64.model Data/Samples/random-10000-f256-1.train
+[RECALL] [(2, 0.01082), (4, 0.01247), (8, 0.01538), (16, 0.0205), (32, 0.02916), (64, 0.04384), (128, 0.069), (256, 0.10942), (512, 0.17457), (1024, 0.27624), (2048, 0.42452), (4096, 0.63091), (8192, 0.9061), (16384, 1.0)]
+[PRECISION]  0.05859
+[DURATION]:  71.0507678986 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/random-10000-3-c64.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/random-10000-3-c64.model;[SAMPLE]Data/Samples/random-10000-f256-1.train;(2, 0.01082),(4, 0.01247),(8, 0.01538),(16, 0.0205),(32, 0.02916),(64, 0.04384),(128, 0.069),(256, 0.10942),(512, 0.17457),(1024, 0.27624),(2048, 0.42452),(4096, 0.63091),(8192, 0.9061),(16384, 1.0);0.05859
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/random-10000-4-c64.model
+[DEBUG] Sample =>Data/Samples/random-10000-f256-1.train
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 3
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/random-10000-4-c64.model Data/Samples/random-10000-f256-1.train
+[RECALL] [(2, 0.01101), (4, 0.01253), (8, 0.01511), (16, 0.02), (32, 0.02839), (64, 0.04308), (128, 0.06752), (256, 0.10754), (512, 0.17374), (1024, 0.27599), (2048, 0.42559), (4096, 0.63326), (8192, 0.90799), (16384, 1.0)]
+[PRECISION]  0.05695
+[DURATION]:  74.6060180664 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/random-10000-4-c64.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/random-10000-4-c64.model;[SAMPLE]Data/Samples/random-10000-f256-1.train;(2, 0.01101),(4, 0.01253),(8, 0.01511),(16, 0.02),(32, 0.02839),(64, 0.04308),(128, 0.06752),(256, 0.10754),(512, 0.17374),(1024, 0.27599),(2048, 0.42559),(4096, 0.63326),(8192, 0.90799),(16384, 1.0);0.05695
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/random-10000-5-c64.model
+[DEBUG] Sample =>Data/Samples/random-10000-f256-1.train
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 3
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/random-10000-5-c64.model Data/Samples/random-10000-f256-1.train
+[RECALL] [(2, 0.01086), (4, 0.01243), (8, 0.01481), (16, 0.01958), (32, 0.02785), (64, 0.04264), (128, 0.06651), (256, 0.10594), (512, 0.17175), (1024, 0.27287), (2048, 0.42108), (4096, 0.63007), (8192, 0.90673), (16384, 1.0)]
+[PRECISION]  0.05647
+[DURATION]:  69.9510450363 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/random-10000-5-c64.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/random-10000-5-c64.model;[SAMPLE]Data/Samples/random-10000-f256-1.train;(2, 0.01086),(4, 0.01243),(8, 0.01481),(16, 0.01958),(32, 0.02785),(64, 0.04264),(128, 0.06651),(256, 0.10594),(512, 0.17175),(1024, 0.27287),(2048, 0.42108),(4096, 0.63007),(8192, 0.90673),(16384, 1.0);0.05647
+===========================================
+All results: 
+[MODEL] Experiments2/Experiment_2-5-2/Models/random-10000-1-c64.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/random-10000-1-c64.model;[SAMPLE]Data/Samples/random-10000-f256-1.train;(2, 0.01098),(4, 0.01285),(8, 0.01534),(16, 0.02002),(32, 0.02852),(64, 0.04371),(128, 0.06809),(256, 0.10896),(512, 0.17419),(1024, 0.27565),(2048, 0.42457),(4096, 0.63161),(8192, 0.90536),(16384, 1.0);0.05784
+[MODEL] Experiments2/Experiment_2-5-2/Models/random-10000-2-c64.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/random-10000-2-c64.model;[SAMPLE]Data/Samples/random-10000-f256-1.train;(2, 0.01098),(4, 0.01277),(8, 0.01559),(16, 0.02025),(32, 0.02858),(64, 0.04294),(128, 0.0681),(256, 0.10922),(512, 0.17625),(1024, 0.27864),(2048, 0.43024),(4096, 0.63678),(8192, 0.90949),(16384, 1.0);0.05758
+[MODEL] Experiments2/Experiment_2-5-2/Models/random-10000-3-c64.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/random-10000-3-c64.model;[SAMPLE]Data/Samples/random-10000-f256-1.train;(2, 0.01082),(4, 0.01247),(8, 0.01538),(16, 0.0205),(32, 0.02916),(64, 0.04384),(128, 0.069),(256, 0.10942),(512, 0.17457),(1024, 0.27624),(2048, 0.42452),(4096, 0.63091),(8192, 0.9061),(16384, 1.0);0.05859
+[MODEL] Experiments2/Experiment_2-5-2/Models/random-10000-4-c64.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/random-10000-4-c64.model;[SAMPLE]Data/Samples/random-10000-f256-1.train;(2, 0.01101),(4, 0.01253),(8, 0.01511),(16, 0.02),(32, 0.02839),(64, 0.04308),(128, 0.06752),(256, 0.10754),(512, 0.17374),(1024, 0.27599),(2048, 0.42559),(4096, 0.63326),(8192, 0.90799),(16384, 1.0);0.05695
+[MODEL] Experiments2/Experiment_2-5-2/Models/random-10000-5-c64.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/random-10000-5-c64.model;[SAMPLE]Data/Samples/random-10000-f256-1.train;(2, 0.01086),(4, 0.01243),(8, 0.01481),(16, 0.01958),(32, 0.02785),(64, 0.04264),(128, 0.06651),(256, 0.10594),(512, 0.17175),(1024, 0.27287),(2048, 0.42108),(4096, 0.63007),(8192, 0.90673),(16384, 1.0);0.05647

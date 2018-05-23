@@ -1,0 +1,26 @@
+Dataset size: 10000
+Dataset size: 128
+Test query count: 10000
+Test query count: 128
+The value of k: 10
+The value of r: 100
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 128
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 128
+iteration = 10
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.3244
+
+Spectral Hashing Recalls:
+    0.3396
+
+Spherical Hashing Recalls:
+    0.1726

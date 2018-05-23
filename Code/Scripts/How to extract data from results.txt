@@ -1,0 +1,8 @@
+- didn't finish new
+  grep "\[INFO\]\|\[MODEL\]" jaccard.k100.r1000.rerankrecall.result
+- didn't finish old
+ 	grep "\[INFO\]\|SAMPLE Data" jaccard.k100.result
+- finish new
+	grep "\[RESULT\]\[MODEL\]" jaccard.k10.r100.clustered-10000-64.results
+- finish old
+	sed -n -e '/MODEL=>/,$p' jaccard.k1000.result

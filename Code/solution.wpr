@@ -1,0 +1,30 @@
+#!wing
+#!version=6.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.directory-list = [{'dirloc': loc('Data'),
+                        'excludes': (),
+                        'filter': u'*',
+                        'include_hidden': False,
+                        'recursive': False,
+                        'watch_for_changes': True}]
+proj.file-list = [loc('algorithm.py'),
+                  loc('data-generator.py'),
+                  loc('distance_functions.py'),
+                  loc('hypersphere.py'),
+                  loc('knn-tests.py'),
+                  loc('measurements-cli.py'),
+                  loc('measurements-main.py'),
+                  loc('measurements.py'),
+                  loc('sample-generator.py'),
+                  loc('sample_extractor.py'),
+                  loc('solution.py'),
+                  loc('train-cli.py'),
+                  loc('train.py')]
+proj.file-type = 'shared'
+proj.launch-config = {loc('data-generator.py'): ('project',
+        (u'-n 1000 -f 3 -s 10 -c 3',
+         ''))}
+proj.main-file = loc('data-generator.py')

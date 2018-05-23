@@ -1,0 +1,304 @@
+# 2 clusters in the dataset
+Dataset size: 10000
+Dataset size: 257
+Test query count: 10000
+Test query count: 257
+The value of k: 100
+The value of r: 100
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 64
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 64
+iteration = 25
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.1713
+
+Spectral Hashing Recalls:
+    0.1692
+
+Spherical Hashing Recalls:
+    0.1447
+
+
+
+
+
+
+
+# 4 clusters in the dataset
+Dataset size: 10000
+Dataset size: 257
+Test query count: 10000
+Test query count: 257
+The value of k: 100
+The value of r: 100
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 64
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 64
+iteration = 41
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.1999
+
+Spectral Hashing Recalls:
+    0.1829
+
+Spherical Hashing Recalls:
+    0.1526
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 8 clusters in the dataset
+Dataset size: 10000
+Dataset size: 257
+Test query count: 10000
+Test query count: 257
+The value of k: 100
+The value of r: 100
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 64
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 64
+iteration = 56
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.1894
+
+Spectral Hashing Recalls:
+    0.1479
+
+Spherical Hashing Recalls:
+    0.1529
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 16 clusters in the dataset
+Dataset size: 10000
+Dataset size: 257
+Test query count: 10000
+Test query count: 257
+The value of k: 100
+The value of r: 100
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 64
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 64
+iteration = 76
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.2562
+
+Spectral Hashing Recalls:
+    0.1913
+
+Spherical Hashing Recalls:
+    0.2276
+
+
+
+
+
+
+
+
+
+
+
+
+# 32 clusters in the dataset
+Dataset size: 10000
+Dataset size: 257
+Test query count: 10000
+Test query count: 257
+The value of k: 100
+The value of r: 100
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 64
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 64
+iteration = 29
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.4017
+
+Spectral Hashing Recalls:
+    0.3486
+
+Spherical Hashing Recalls:
+    0.3743
+
+
+
+
+
+
+
+
+
+
+
+
+# 64 clusters in the dataset
+Dataset size: 10000
+Dataset size: 257
+Test query count: 10000
+Test query count: 257
+The value of k: 100
+The value of r: 100
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 64
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 64
+iteration = 18
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.6746
+
+Spectral Hashing Recalls:
+    0.6746, 0.6570
+
+Spherical Hashing Recalls:
+    0.6746, 0.6570, 0.6645
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 128 clusters in the dataset
+Dataset size: 10000
+Dataset size: 257
+Test query count: 10000
+Test query count: 257
+The value of k: 100
+The value of r: 100
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 64
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 64
+iteration = 11
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.7816
+
+Spectral Hashing Recalls:
+    0.7860
+
+Spherical Hashing Recalls:
+    0.7794
+
+
+
+
+
+
+
+
+
+
+
+
+# 256 clusters in the dataset
+Dataset size: 10000
+Dataset size: 257
+Test query count: 10000
+Test query count: 257
+The value of k: 100
+The value of r: 100
+
+Generating Groundtruth.. this may take a while..  done.
+
+Testing Neighbor-Sensitive Hashing for:
+  codesize: 64
+Finished testing Neighbor-Sensitive Hashing.
+
+Testing other competing kNN hashing algorithms for:
+Note: Some messages may be printed from the internals of those algorithms.
+  codesize: 64
+iteration = 10
+Finished testing other algorithms.
+Neighbor-Sensitive Hashing Recalls:
+    0.4264
+
+Spectral Hashing Recalls:
+    0.4378
+
+Spherical Hashing Recalls:
+    0.4081
+
+
+
+

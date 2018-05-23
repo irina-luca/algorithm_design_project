@@ -1,0 +1,41 @@
+normalizing
+starting
+hypersphere
+oij
+oij done
+Iteration #1
+mean:	(367.107142857 => 250.0)
+stddev:	(422.819742253 => 375.0)
+Iteration time:	1.07299995422 seconds
+==============================
+Iteration #2
+mean:	(343.571428571 => 250.0)
+stddev:	(377.780096115 => 375.0)
+Iteration time:	1.08200001717 seconds
+==============================
+Iteration #3
+mean:	(333.5 => 250.0)
+stddev:	(342.871219949 => 375.0)
+Iteration time:	1.08300018311 seconds
+==============================
+Iteration #4
+mean:	(310.75 => 250.0)
+stddev:	(321.414243728 => 375.0)
+Iteration time:	1.09500002861 seconds
+==============================
+Iteration #5
+mean:	(299.821428571 => 250.0)
+stddev:	(296.668463602 => 375.0)
+Iteration time:	1.07299995422 seconds
+==============================
+Iteration #6
+mean:	(281.321428571 => 250.0)
+stddev:	(272.288232169 => 375.0)
+Iteration time:	1.0720000267 seconds
+==============================
+Iteration #7
+mean:	(247.107142857 => 250.0)
+stddev:	(253.51110701 => 375.0)
+Iteration time:	1.0759999752 seconds
+==============================
+Total runningtime: 7.55400013924

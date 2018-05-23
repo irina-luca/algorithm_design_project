@@ -1,0 +1,8 @@
+# Wing IDE
+*.wpu
+
+*.pyc
+*random-dataset-*.csv
+*.data
+Data/
+.idea/

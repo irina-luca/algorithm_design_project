@@ -1,0 +1,16 @@
+normalizing
+starting
+hypersphere
+oij
+oij done
+Iteration #1
+mean:	(258.913754921 => 250.0)
+stddev:	(173.788780958 => 375.0)
+Iteration time:	47.3420000076 seconds
+==============================
+Iteration #2
+mean:	(243.073449803 => 250.0)
+stddev:	(174.840849535 => 375.0)
+Iteration time:	47.739000082 seconds
+==============================
+Total runningtime: 95.0810000896

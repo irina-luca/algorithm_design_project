@@ -1,0 +1,71 @@
+normalizing
+starting
+hypersphere
+oij
+oij done
+Iteration #1
+mean:	(450.37533701 => 250.0)
+stddev:	(480.872247025 => 375.0)
+Iteration time:	249.168270111 seconds
+==============================
+Iteration #2
+mean:	(415.447702206 => 250.0)
+stddev:	(447.033665177 => 375.0)
+Iteration time:	233.080885887 seconds
+==============================
+Iteration #3
+mean:	(385.879963235 => 250.0)
+stddev:	(418.933400364 => 375.0)
+Iteration time:	235.232017994 seconds
+==============================
+Iteration #4
+mean:	(361.117953431 => 250.0)
+stddev:	(395.681372504 => 375.0)
+Iteration time:	209.70510006 seconds
+==============================
+Iteration #5
+mean:	(340.039123775 => 250.0)
+stddev:	(376.0631107 => 375.0)
+Iteration time:	238.409348965 seconds
+==============================
+Iteration #6
+mean:	(321.84653799 => 250.0)
+stddev:	(359.158404606 => 375.0)
+Iteration time:	236.268278122 seconds
+==============================
+Iteration #7
+mean:	(306.069699755 => 250.0)
+stddev:	(344.85181923 => 375.0)
+Iteration time:	231.980932951 seconds
+==============================
+Iteration #8
+mean:	(292.426409314 => 250.0)
+stddev:	(332.367279983 => 375.0)
+Iteration time:	225.784555912 seconds
+==============================
+Iteration #9
+mean:	(280.109466912 => 250.0)
+stddev:	(321.068035838 => 375.0)
+Iteration time:	233.934385061 seconds
+==============================
+Iteration #10
+mean:	(269.461856618 => 250.0)
+stddev:	(311.283436622 => 375.0)
+Iteration time:	215.21163702 seconds
+==============================
+Iteration #11
+mean:	(260.045404412 => 250.0)
+stddev:	(302.543622749 => 375.0)
+Iteration time:	182.819042921 seconds
+==============================
+Iteration #12
+mean:	(251.536948529 => 250.0)
+stddev:	(294.610022077 => 375.0)
+Iteration time:	187.27620101 seconds
+==============================
+Iteration #13
+mean:	(244.047640931 => 250.0)
+stddev:	(287.501017261 => 375.0)
+Iteration time:	163.153918028 seconds
+==============================
+Total runningtime: 2842.02464008

@@ -1,0 +1,71 @@
+normalizing
+starting
+hypersphere
+oij
+oij done
+Iteration #1
+mean:	(429.942248775 => 250.0)
+stddev:	(458.943018651 => 375.0)
+Iteration time:	235.88264513 seconds
+==============================
+Iteration #2
+mean:	(398.527634804 => 250.0)
+stddev:	(429.252060203 => 375.0)
+Iteration time:	232.342004061 seconds
+==============================
+Iteration #3
+mean:	(372.283363971 => 250.0)
+stddev:	(404.646233364 => 375.0)
+Iteration time:	259.02044487 seconds
+==============================
+Iteration #4
+mean:	(350.038112745 => 250.0)
+stddev:	(384.009926041 => 375.0)
+Iteration time:	241.330306053 seconds
+==============================
+Iteration #5
+mean:	(331.160569853 => 250.0)
+stddev:	(366.327565609 => 375.0)
+Iteration time:	229.362982035 seconds
+==============================
+Iteration #6
+mean:	(314.84598652 => 250.0)
+stddev:	(351.335998992 => 375.0)
+Iteration time:	231.974936962 seconds
+==============================
+Iteration #7
+mean:	(300.566758578 => 250.0)
+stddev:	(338.182145894 => 375.0)
+Iteration time:	221.501646042 seconds
+==============================
+Iteration #8
+mean:	(287.907659314 => 250.0)
+stddev:	(326.544265172 => 375.0)
+Iteration time:	238.469813108 seconds
+==============================
+Iteration #9
+mean:	(276.940226716 => 250.0)
+stddev:	(316.468765419 => 375.0)
+Iteration time:	223.199979067 seconds
+==============================
+Iteration #10
+mean:	(267.017340686 => 250.0)
+stddev:	(307.335346186 => 375.0)
+Iteration time:	228.398219109 seconds
+==============================
+Iteration #11
+mean:	(258.221691176 => 250.0)
+stddev:	(299.09275689 => 375.0)
+Iteration time:	183.899850845 seconds
+==============================
+Iteration #12
+mean:	(250.301685049 => 250.0)
+stddev:	(291.753873748 => 375.0)
+Iteration time:	192.579360008 seconds
+==============================
+Iteration #13
+mean:	(243.139797794 => 250.0)
+stddev:	(285.15027464 => 375.0)
+Iteration time:	165.096546888 seconds
+==============================
+Total runningtime: 2883.05879807

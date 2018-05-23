@@ -1,0 +1,56 @@
+normalizing
+starting
+hypersphere
+oij
+oij done
+Iteration #1
+mean:	(39.257320374 => 26.075)
+stddev:	(45.2866084891 => 39.1125)
+Iteration time:	5.75400018692 seconds
+==============================
+Iteration #2
+mean:	(36.8021653543 => 26.075)
+stddev:	(42.6164614741 => 39.1125)
+Iteration time:	5.75599980354 seconds
+==============================
+Iteration #3
+mean:	(34.4913877953 => 26.075)
+stddev:	(40.0059682019 => 39.1125)
+Iteration time:	5.46000003815 seconds
+==============================
+Iteration #4
+mean:	(32.7131520669 => 26.075)
+stddev:	(38.1314464825 => 39.1125)
+Iteration time:	5.07100009918 seconds
+==============================
+Iteration #5
+mean:	(31.3072711614 => 26.075)
+stddev:	(36.6848495456 => 39.1125)
+Iteration time:	4.97300004959 seconds
+==============================
+Iteration #6
+mean:	(29.945558563 => 26.075)
+stddev:	(35.2101111173 => 39.1125)
+Iteration time:	4.91899991035 seconds
+==============================
+Iteration #7
+mean:	(28.7138902559 => 26.075)
+stddev:	(33.929541906 => 39.1125)
+Iteration time:	5.01600003242 seconds
+==============================
+Iteration #8
+mean:	(27.6538508858 => 26.075)
+stddev:	(32.8725387068 => 39.1125)
+Iteration time:	4.9509999752 seconds
+==============================
+Iteration #9
+mean:	(26.750246063 => 26.075)
+stddev:	(31.9570086944 => 39.1125)
+Iteration time:	4.97399997711 seconds
+==============================
+Iteration #10
+mean:	(25.8246801181 => 26.075)
+stddev:	(31.0503242447 => 39.1125)
+Iteration time:	5.02699995041 seconds
+==============================
+Total runningtime: 51.9010000229

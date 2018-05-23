@@ -1,0 +1,131 @@
+['Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c2.model', 'Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c4.model', 'Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c8.model', 'Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c16.model', 'Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c32.model', 'Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c64.model', 'Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c128.model', 'Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c256.model']
+['Data/Samples/clustered-10000-f256-c2-3.test']
+[DEBUG] Model => Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c2.model
+[DEBUG] Sample =>Data/Samples/clustered-10000-f256-c2-3.test
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 0
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c2.model Data/Samples/clustered-10000-f256-c2-3.test
+[RECALL] [(2, 0.00048), (4, 0.00056), (8, 0.00111), (16, 0.00265), (32, 0.00579), (64, 0.01154), (128, 0.02388), (256, 0.04896), (512, 0.09384), (1024, 0.19478), (2048, 0.40105), (4096, 0.64663), (8192, 0.90312), (16384, 1.0)]
+[PRECISION]  0.01885
+[DURATION]:  58.6938660145 seconds.
+
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c2.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c2.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.00048),(4, 0.00056),(8, 0.00111),(16, 0.00265),(32, 0.00579),(64, 0.01154),(128, 0.02388),(256, 0.04896),(512, 0.09384),(1024, 0.19478),(2048, 0.40105),(4096, 0.64663),(8192, 0.90312),(16384, 1.0);0.01885
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c4.model
+[DEBUG] Sample =>Data/Samples/clustered-10000-f256-c2-3.test
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 0
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c4.model Data/Samples/clustered-10000-f256-c2-3.test
+[RECALL] [(2, 0.00053), (4, 0.00104), (8, 0.00189), (16, 0.00361), (32, 0.00877), (64, 0.01751), (128, 0.03306), (256, 0.06326), (512, 0.12498), (1024, 0.2397), (2048, 0.46875), (4096, 0.82338), (8192, 0.99548), (16384, 1.0)]
+[PRECISION]  0.02572
+[DURATION]:  43.1750299931 seconds.
+
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c4.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c4.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.00053),(4, 0.00104),(8, 0.00189),(16, 0.00361),(32, 0.00877),(64, 0.01751),(128, 0.03306),(256, 0.06326),(512, 0.12498),(1024, 0.2397),(2048, 0.46875),(4096, 0.82338),(8192, 0.99548),(16384, 1.0);0.02572
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c8.model
+[DEBUG] Sample =>Data/Samples/clustered-10000-f256-c2-3.test
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 0
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c8.model Data/Samples/clustered-10000-f256-c2-3.test
+[RECALL] [(2, 0.00113), (4, 0.0021), (8, 0.00438), (16, 0.00868), (32, 0.016), (64, 0.02919), (128, 0.05161), (256, 0.09001), (512, 0.15517), (1024, 0.27064), (2048, 0.45089), (4096, 0.6992), (8192, 0.94215), (16384, 1.0)]
+[PRECISION]  0.04216
+[DURATION]:  61.8959589005 seconds.
+
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c8.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c8.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.00113),(4, 0.0021),(8, 0.00438),(16, 0.00868),(32, 0.016),(64, 0.02919),(128, 0.05161),(256, 0.09001),(512, 0.15517),(1024, 0.27064),(2048, 0.45089),(4096, 0.6992),(8192, 0.94215),(16384, 1.0);0.04216
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c16.model
+[DEBUG] Sample =>Data/Samples/clustered-10000-f256-c2-3.test
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 0
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c16.model Data/Samples/clustered-10000-f256-c2-3.test
+[RECALL] [(2, 0.00949), (4, 0.01143), (8, 0.01416), (16, 0.01879), (32, 0.02715), (64, 0.04184), (128, 0.06863), (256, 0.11502), (512, 0.19314), (1024, 0.32291), (2048, 0.51194), (4096, 0.74954), (8192, 0.95648), (16384, 1.0)]
+[PRECISION]  0.05699
+[DURATION]:  50.7593679428 seconds.
+
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c16.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c16.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.00949),(4, 0.01143),(8, 0.01416),(16, 0.01879),(32, 0.02715),(64, 0.04184),(128, 0.06863),(256, 0.11502),(512, 0.19314),(1024, 0.32291),(2048, 0.51194),(4096, 0.74954),(8192, 0.95648),(16384, 1.0);0.05699
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c32.model
+[DEBUG] Sample =>Data/Samples/clustered-10000-f256-c2-3.test
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 0
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c32.model Data/Samples/clustered-10000-f256-c2-3.test
+[RECALL] [(2, 0.0111), (4, 0.01342), (8, 0.01706), (16, 0.02378), (32, 0.03494), (64, 0.05517), (128, 0.0912), (256, 0.15025), (512, 0.24452), (1024, 0.38325), (2048, 0.5748), (4096, 0.79423), (8192, 0.96906), (16384, 1.0)]
+[PRECISION]  0.07643
+[DURATION]:  57.8156881332 seconds.
+
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c32.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c32.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.0111),(4, 0.01342),(8, 0.01706),(16, 0.02378),(32, 0.03494),(64, 0.05517),(128, 0.0912),(256, 0.15025),(512, 0.24452),(1024, 0.38325),(2048, 0.5748),(4096, 0.79423),(8192, 0.96906),(16384, 1.0);0.07643
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c64.model
+[DEBUG] Sample =>Data/Samples/clustered-10000-f256-c2-3.test
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 0
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c64.model Data/Samples/clustered-10000-f256-c2-3.test
+[RECALL] [(2, 0.01201), (4, 0.01526), (8, 0.02061), (16, 0.03045), (32, 0.04692), (64, 0.07572), (128, 0.12174), (256, 0.19679), (512, 0.30596), (1024, 0.45861), (2048, 0.6473), (4096, 0.84132), (8192, 0.97844), (16384, 1.0)]
+[PRECISION]  0.10232
+[DURATION]:  52.9909551144 seconds.
+
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c64.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c64.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.01201),(4, 0.01526),(8, 0.02061),(16, 0.03045),(32, 0.04692),(64, 0.07572),(128, 0.12174),(256, 0.19679),(512, 0.30596),(1024, 0.45861),(2048, 0.6473),(4096, 0.84132),(8192, 0.97844),(16384, 1.0);0.10232
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c128.model
+[DEBUG] Sample =>Data/Samples/clustered-10000-f256-c2-3.test
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 0
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c128.model Data/Samples/clustered-10000-f256-c2-3.test
+[RECALL] [(2, 0.01308), (4, 0.01778), (8, 0.02625), (16, 0.04057), (32, 0.06378), (64, 0.10191), (128, 0.16274), (256, 0.25393), (512, 0.38052), (1024, 0.54041), (2048, 0.71857), (4096, 0.88009), (8192, 0.98672), (16384, 1.0)]
+[PRECISION]  0.13813
+[DURATION]:  59.002505064 seconds.
+
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c128.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c128.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.01308),(4, 0.01778),(8, 0.02625),(16, 0.04057),(32, 0.06378),(64, 0.10191),(128, 0.16274),(256, 0.25393),(512, 0.38052),(1024, 0.54041),(2048, 0.71857),(4096, 0.88009),(8192, 0.98672),(16384, 1.0);0.13813
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c256.model
+[DEBUG] Sample =>Data/Samples/clustered-10000-f256-c2-3.test
+[DEBUG] NOT RERANK_RECALL
+[DEBUG] MEASURE: 0
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c256.model Data/Samples/clustered-10000-f256-c2-3.test
+[RECALL] [(2, 0.01449), (4, 0.02149), (8, 0.03309), (16, 0.0524), (32, 0.08435), (64, 0.13247), (128, 0.20534), (256, 0.30658), (512, 0.43757), (1024, 0.5949), (2048, 0.75515), (4096, 0.89632), (8192, 0.9895), (16384, 1.0)]
+[PRECISION]  0.17557
+[DURATION]:  58.4935061932 seconds.
+
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c256.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c256.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.01449),(4, 0.02149),(8, 0.03309),(16, 0.0524),(32, 0.08435),(64, 0.13247),(128, 0.20534),(256, 0.30658),(512, 0.43757),(1024, 0.5949),(2048, 0.75515),(4096, 0.89632),(8192, 0.9895),(16384, 1.0);0.17557
+===========================================
+All results: 
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c2.model:
+[RESULT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c2.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.00048),(4, 0.00056),(8, 0.00111),(16, 0.00265),(32, 0.00579),(64, 0.01154),(128, 0.02388),(256, 0.04896),(512, 0.09384),(1024, 0.19478),(2048, 0.40105),(4096, 0.64663),(8192, 0.90312),(16384, 1.0);0.01885
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c4.model:
+[RESULT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c4.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.00053),(4, 0.00104),(8, 0.00189),(16, 0.00361),(32, 0.00877),(64, 0.01751),(128, 0.03306),(256, 0.06326),(512, 0.12498),(1024, 0.2397),(2048, 0.46875),(4096, 0.82338),(8192, 0.99548),(16384, 1.0);0.02572
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c8.model:
+[RESULT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c8.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.00113),(4, 0.0021),(8, 0.00438),(16, 0.00868),(32, 0.016),(64, 0.02919),(128, 0.05161),(256, 0.09001),(512, 0.15517),(1024, 0.27064),(2048, 0.45089),(4096, 0.6992),(8192, 0.94215),(16384, 1.0);0.04216
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c16.model:
+[RESULT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c16.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.00949),(4, 0.01143),(8, 0.01416),(16, 0.01879),(32, 0.02715),(64, 0.04184),(128, 0.06863),(256, 0.11502),(512, 0.19314),(1024, 0.32291),(2048, 0.51194),(4096, 0.74954),(8192, 0.95648),(16384, 1.0);0.05699
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c32.model:
+[RESULT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c32.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.0111),(4, 0.01342),(8, 0.01706),(16, 0.02378),(32, 0.03494),(64, 0.05517),(128, 0.0912),(256, 0.15025),(512, 0.24452),(1024, 0.38325),(2048, 0.5748),(4096, 0.79423),(8192, 0.96906),(16384, 1.0);0.07643
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c64.model:
+[RESULT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c64.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.01201),(4, 0.01526),(8, 0.02061),(16, 0.03045),(32, 0.04692),(64, 0.07572),(128, 0.12174),(256, 0.19679),(512, 0.30596),(1024, 0.45861),(2048, 0.6473),(4096, 0.84132),(8192, 0.97844),(16384, 1.0);0.10232
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c128.model:
+[RESULT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c128.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.01308),(4, 0.01778),(8, 0.02625),(16, 0.04057),(32, 0.06378),(64, 0.10191),(128, 0.16274),(256, 0.25393),(512, 0.38052),(1024, 0.54041),(2048, 0.71857),(4096, 0.88009),(8192, 0.98672),(16384, 1.0);0.13813
+[MODEL] Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c256.model:
+[RESULT][MODEL]Experiments2/Experiment_2-6-1-irinaalg2/Models/clustered-cl2-10000-1-c256.model;[SAMPLE]Data/Samples/clustered-10000-f256-c2-3.test;(2, 0.01449),(4, 0.02149),(8, 0.03309),(16, 0.0524),(32, 0.08435),(64, 0.13247),(128, 0.20534),(256, 0.30658),(512, 0.43757),(1024, 0.5949),(2048, 0.75515),(4096, 0.89632),(8192, 0.9895),(16384, 1.0);0.17557

@@ -1,0 +1,71 @@
+normalizing
+starting
+hypersphere
+oij
+oij done
+Iteration #1
+mean:	(353.333333333 => 250.0)
+stddev:	(293.163018738 => 375.0)
+Iteration time:	0.912000179291 seconds
+==============================
+Iteration #2
+mean:	(342.0 => 250.0)
+stddev:	(292.827025164 => 375.0)
+Iteration time:	0.868999958038 seconds
+==============================
+Iteration #3
+mean:	(330.666666667 => 250.0)
+stddev:	(291.482799188 => 375.0)
+Iteration time:	0.914000034332 seconds
+==============================
+Iteration #4
+mean:	(317.666666667 => 250.0)
+stddev:	(284.569069921 => 375.0)
+Iteration time:	0.905999898911 seconds
+==============================
+Iteration #5
+mean:	(304.833333333 => 250.0)
+stddev:	(281.298625426 => 375.0)
+Iteration time:	0.903000116348 seconds
+==============================
+Iteration #6
+mean:	(297.5 => 250.0)
+stddev:	(278.208205407 => 375.0)
+Iteration time:	0.895999908447 seconds
+==============================
+Iteration #7
+mean:	(289.333333333 => 250.0)
+stddev:	(275.16823137 => 375.0)
+Iteration time:	0.920000076294 seconds
+==============================
+Iteration #8
+mean:	(280.833333333 => 250.0)
+stddev:	(271.54705956 => 375.0)
+Iteration time:	0.882999897003 seconds
+==============================
+Iteration #9
+mean:	(273.333333333 => 250.0)
+stddev:	(267.774573517 => 375.0)
+Iteration time:	0.921999931335 seconds
+==============================
+Iteration #10
+mean:	(267.333333333 => 250.0)
+stddev:	(264.732359605 => 375.0)
+Iteration time:	0.932000160217 seconds
+==============================
+Iteration #11
+mean:	(262.666666667 => 250.0)
+stddev:	(260.509543438 => 375.0)
+Iteration time:	0.934000015259 seconds
+==============================
+Iteration #12
+mean:	(254.166666667 => 250.0)
+stddev:	(254.020832479 => 375.0)
+Iteration time:	0.904000043869 seconds
+==============================
+Iteration #13
+mean:	(247.833333333 => 250.0)
+stddev:	(250.090483625 => 375.0)
+Iteration time:	0.910999774933 seconds
+==============================
+Total runningtime: 11.8059999943

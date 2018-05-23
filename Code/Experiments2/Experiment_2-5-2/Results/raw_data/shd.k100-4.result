@@ -1,0 +1,123 @@
+['Experiments2/Experiment_2-5-2/Models/profi-10000-1-c2.model', 'Experiments2/Experiment_2-5-2/Models/profi-10000-1-c4.model', 'Experiments2/Experiment_2-5-2/Models/profi-10000-1-c8.model', 'Experiments2/Experiment_2-5-2/Models/profi-10000-1-c16.model', 'Experiments2/Experiment_2-5-2/Models/profi-10000-1-c32.model', 'Experiments2/Experiment_2-5-2/Models/profi-10000-1-c64.model', 'Experiments2/Experiment_2-5-2/Models/profi-10000-1-c128.model', 'Experiments2/Experiment_2-5-2/Models/profi-10000-1-c256.model']
+['Data/Profinew/Experiment_2-5-2/profi-10000-4.test']
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/profi-10000-1-c2.model
+[DEBUG] Sample =>Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+NOT RERANK_RECALL
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/profi-10000-1-c2.model Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+[RECALL] [(2, 0.00018), (4, 0.00034), (8, 0.00064), (16, 0.00139), (32, 0.003), (64, 0.00631), (128, 0.01315), (256, 0.02588), (512, 0.05405), (1024, 0.11115), (2048, 0.22766), (4096, 0.44427), (8192, 0.89429), (16384, 1.0)]
+[PRECISION]  0.01027
+[DURATION]:  111.571793079 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c2.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c2.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.00018),(4, 0.00034),(8, 0.00064),(16, 0.00139),(32, 0.003),(64, 0.00631),(128, 0.01315),(256, 0.02588),(512, 0.05405),(1024, 0.11115),(2048, 0.22766),(4096, 0.44427),(8192, 0.89429),(16384, 1.0);0.01027
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/profi-10000-1-c4.model
+[DEBUG] Sample =>Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+NOT RERANK_RECALL
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/profi-10000-1-c4.model Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+[RECALL] [(2, 0.00019), (4, 0.00027), (8, 0.00075), (16, 0.00136), (32, 0.00308), (64, 0.0067), (128, 0.01299), (256, 0.02534), (512, 0.05294), (1024, 0.10257), (2048, 0.2128), (4096, 0.41378), (8192, 0.86492), (16384, 1.0)]
+[PRECISION]  0.01041
+[DURATION]:  117.520517111 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c4.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c4.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.00019),(4, 0.00027),(8, 0.00075),(16, 0.00136),(32, 0.00308),(64, 0.0067),(128, 0.01299),(256, 0.02534),(512, 0.05294),(1024, 0.10257),(2048, 0.2128),(4096, 0.41378),(8192, 0.86492),(16384, 1.0);0.01041
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/profi-10000-1-c8.model
+[DEBUG] Sample =>Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+NOT RERANK_RECALL
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/profi-10000-1-c8.model Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+[RECALL] [(2, 0.0002), (4, 0.00038), (8, 0.00067), (16, 0.00103), (32, 0.00235), (64, 0.00453), (128, 0.01099), (256, 0.02276), (512, 0.04775), (1024, 0.09545), (2048, 0.20417), (4096, 0.39203), (8192, 0.82838), (16384, 1.0)]
+[PRECISION]  0.00822
+[DURATION]:  123.152644873 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c8.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c8.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0002),(4, 0.00038),(8, 0.00067),(16, 0.00103),(32, 0.00235),(64, 0.00453),(128, 0.01099),(256, 0.02276),(512, 0.04775),(1024, 0.09545),(2048, 0.20417),(4096, 0.39203),(8192, 0.82838),(16384, 1.0);0.00822
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/profi-10000-1-c16.model
+[DEBUG] Sample =>Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+NOT RERANK_RECALL
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/profi-10000-1-c16.model Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+[RECALL] [(2, 0.0001), (4, 0.00017), (8, 0.00043), (16, 0.0007), (32, 0.00245), (64, 0.00479), (128, 0.01088), (256, 0.02222), (512, 0.04741), (1024, 0.09517), (2048, 0.20317), (4096, 0.39136), (8192, 0.82494), (16384, 1.0)]
+[PRECISION]  0.00755
+[DURATION]:  126.304513931 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c16.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c16.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0001),(4, 0.00017),(8, 0.00043),(16, 0.0007),(32, 0.00245),(64, 0.00479),(128, 0.01088),(256, 0.02222),(512, 0.04741),(1024, 0.09517),(2048, 0.20317),(4096, 0.39136),(8192, 0.82494),(16384, 1.0);0.00755
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/profi-10000-1-c32.model
+[DEBUG] Sample =>Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+NOT RERANK_RECALL
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/profi-10000-1-c32.model Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+[RECALL] [(2, 0.0001), (4, 0.00017), (8, 0.00043), (16, 0.0007), (32, 0.00245), (64, 0.00479), (128, 0.01088), (256, 0.02221), (512, 0.04742), (1024, 0.09516), (2048, 0.20311), (4096, 0.39136), (8192, 0.82495), (16384, 1.0)]
+[PRECISION]  0.00754
+[DURATION]:  124.515990973 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c32.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c32.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0001),(4, 0.00017),(8, 0.00043),(16, 0.0007),(32, 0.00245),(64, 0.00479),(128, 0.01088),(256, 0.02221),(512, 0.04742),(1024, 0.09516),(2048, 0.20311),(4096, 0.39136),(8192, 0.82495),(16384, 1.0);0.00754
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/profi-10000-1-c64.model
+[DEBUG] Sample =>Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+NOT RERANK_RECALL
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/profi-10000-1-c64.model Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+[RECALL] [(2, 0.0001), (4, 0.00017), (8, 0.00043), (16, 0.0007), (32, 0.00245), (64, 0.00479), (128, 0.01088), (256, 0.02221), (512, 0.04742), (1024, 0.09516), (2048, 0.20311), (4096, 0.39136), (8192, 0.82495), (16384, 1.0)]
+[PRECISION]  0.00754
+[DURATION]:  129.985649109 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c64.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c64.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0001),(4, 0.00017),(8, 0.00043),(16, 0.0007),(32, 0.00245),(64, 0.00479),(128, 0.01088),(256, 0.02221),(512, 0.04742),(1024, 0.09516),(2048, 0.20311),(4096, 0.39136),(8192, 0.82495),(16384, 1.0);0.00754
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/profi-10000-1-c128.model
+[DEBUG] Sample =>Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+NOT RERANK_RECALL
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/profi-10000-1-c128.model Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+[RECALL] [(2, 0.0001), (4, 0.00017), (8, 0.00043), (16, 0.0007), (32, 0.00245), (64, 0.00479), (128, 0.01088), (256, 0.02221), (512, 0.04742), (1024, 0.09516), (2048, 0.20311), (4096, 0.39136), (8192, 0.82495), (16384, 1.0)]
+[PRECISION]  0.00754
+[DURATION]:  146.812565088 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c128.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c128.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0001),(4, 0.00017),(8, 0.00043),(16, 0.0007),(32, 0.00245),(64, 0.00479),(128, 0.01088),(256, 0.02221),(512, 0.04742),(1024, 0.09516),(2048, 0.20311),(4096, 0.39136),(8192, 0.82495),(16384, 1.0);0.00754
+===========================================
+[DEBUG] Model => Experiments2/Experiment_2-5-2/Models/profi-10000-1-c256.model
+[DEBUG] Sample =>Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+NOT RERANK_RECALL
+[DEBUG] Batch (t:100): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+
+[MODEL, SAMPLE]: Experiments2/Experiment_2-5-2/Models/profi-10000-1-c256.model Data/Profinew/Experiment_2-5-2/profi-10000-4.test
+[RECALL] [(2, 0.0001), (4, 0.00017), (8, 0.00043), (16, 0.0007), (32, 0.00245), (64, 0.00479), (128, 0.01088), (256, 0.02221), (512, 0.04742), (1024, 0.09516), (2048, 0.20311), (4096, 0.39136), (8192, 0.82495), (16384, 1.0)]
+[PRECISION]  0.00754
+[DURATION]:  167.561587095 seconds.
+
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c256.model :
+[RESULT_CONT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c256.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0001),(4, 0.00017),(8, 0.00043),(16, 0.0007),(32, 0.00245),(64, 0.00479),(128, 0.01088),(256, 0.02221),(512, 0.04742),(1024, 0.09516),(2048, 0.20311),(4096, 0.39136),(8192, 0.82495),(16384, 1.0);0.00754
+===========================================
+All results: 
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c2.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c2.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.00018),(4, 0.00034),(8, 0.00064),(16, 0.00139),(32, 0.003),(64, 0.00631),(128, 0.01315),(256, 0.02588),(512, 0.05405),(1024, 0.11115),(2048, 0.22766),(4096, 0.44427),(8192, 0.89429),(16384, 1.0);0.01027
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c4.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c4.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.00019),(4, 0.00027),(8, 0.00075),(16, 0.00136),(32, 0.00308),(64, 0.0067),(128, 0.01299),(256, 0.02534),(512, 0.05294),(1024, 0.10257),(2048, 0.2128),(4096, 0.41378),(8192, 0.86492),(16384, 1.0);0.01041
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c8.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c8.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0002),(4, 0.00038),(8, 0.00067),(16, 0.00103),(32, 0.00235),(64, 0.00453),(128, 0.01099),(256, 0.02276),(512, 0.04775),(1024, 0.09545),(2048, 0.20417),(4096, 0.39203),(8192, 0.82838),(16384, 1.0);0.00822
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c16.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c16.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0001),(4, 0.00017),(8, 0.00043),(16, 0.0007),(32, 0.00245),(64, 0.00479),(128, 0.01088),(256, 0.02222),(512, 0.04741),(1024, 0.09517),(2048, 0.20317),(4096, 0.39136),(8192, 0.82494),(16384, 1.0);0.00755
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c32.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c32.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0001),(4, 0.00017),(8, 0.00043),(16, 0.0007),(32, 0.00245),(64, 0.00479),(128, 0.01088),(256, 0.02221),(512, 0.04742),(1024, 0.09516),(2048, 0.20311),(4096, 0.39136),(8192, 0.82495),(16384, 1.0);0.00754
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c64.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c64.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0001),(4, 0.00017),(8, 0.00043),(16, 0.0007),(32, 0.00245),(64, 0.00479),(128, 0.01088),(256, 0.02221),(512, 0.04742),(1024, 0.09516),(2048, 0.20311),(4096, 0.39136),(8192, 0.82495),(16384, 1.0);0.00754
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c128.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c128.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0001),(4, 0.00017),(8, 0.00043),(16, 0.0007),(32, 0.00245),(64, 0.00479),(128, 0.01088),(256, 0.02221),(512, 0.04742),(1024, 0.09516),(2048, 0.20311),(4096, 0.39136),(8192, 0.82495),(16384, 1.0);0.00754
+[MODEL] Experiments2/Experiment_2-5-2/Models/profi-10000-1-c256.model:
+[RESULT][MODEL]Experiments2/Experiment_2-5-2/Models/profi-10000-1-c256.model;[SAMPLE]Data/Profinew/Experiment_2-5-2/profi-10000-4.test;(2, 0.0001),(4, 0.00017),(8, 0.00043),(16, 0.0007),(32, 0.00245),(64, 0.00479),(128, 0.01088),(256, 0.02221),(512, 0.04742),(1024, 0.09516),(2048, 0.20311),(4096, 0.39136),(8192, 0.82495),(16384, 1.0);0.00754

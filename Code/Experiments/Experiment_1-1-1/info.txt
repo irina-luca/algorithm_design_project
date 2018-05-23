@@ -1,0 +1,1 @@
+Did not work for n=100000!!!! => memory error loadfromtxt or genfromtxt functions.

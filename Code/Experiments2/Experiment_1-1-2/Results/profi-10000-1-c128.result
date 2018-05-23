@@ -1,0 +1,71 @@
+normalizing
+starting
+hypersphere
+oij
+oij done
+Iteration #1
+mean:	(484.817052165 => 250.0)
+stddev:	(507.091509382 => 375.0)
+Iteration time:	82.0067398548 seconds
+==============================
+Iteration #2
+mean:	(442.542568898 => 250.0)
+stddev:	(469.099450581 => 375.0)
+Iteration time:	73.7156970501 seconds
+==============================
+Iteration #3
+mean:	(407.071727362 => 250.0)
+stddev:	(437.399197313 => 375.0)
+Iteration time:	72.0531959534 seconds
+==============================
+Iteration #4
+mean:	(377.601870079 => 250.0)
+stddev:	(411.267434506 => 375.0)
+Iteration time:	70.6798918247 seconds
+==============================
+Iteration #5
+mean:	(353.013779528 => 250.0)
+stddev:	(389.708814781 => 375.0)
+Iteration time:	71.5451519489 seconds
+==============================
+Iteration #6
+mean:	(331.745201772 => 250.0)
+stddev:	(370.940430562 => 375.0)
+Iteration time:	76.2127730846 seconds
+==============================
+Iteration #7
+mean:	(313.812992126 => 250.0)
+stddev:	(355.37797715 => 375.0)
+Iteration time:	56.4636209011 seconds
+==============================
+Iteration #8
+mean:	(298.456569882 => 250.0)
+stddev:	(341.980619903 => 375.0)
+Iteration time:	59.7132670879 seconds
+==============================
+Iteration #9
+mean:	(284.574064961 => 250.0)
+stddev:	(329.452360634 => 375.0)
+Iteration time:	69.0233318806 seconds
+==============================
+Iteration #10
+mean:	(272.649729331 => 250.0)
+stddev:	(318.598463203 => 375.0)
+Iteration time:	59.694507122 seconds
+==============================
+Iteration #11
+mean:	(262.141732283 => 250.0)
+stddev:	(308.981760791 => 375.0)
+Iteration time:	63.5373330116 seconds
+==============================
+Iteration #12
+mean:	(252.655019685 => 250.0)
+stddev:	(300.009926792 => 375.0)
+Iteration time:	63.7109570503 seconds
+==============================
+Iteration #13
+mean:	(244.099901575 => 250.0)
+stddev:	(291.870912016 => 375.0)
+Iteration time:	69.1739430428 seconds
+==============================
+Total runningtime: 887.530474901
